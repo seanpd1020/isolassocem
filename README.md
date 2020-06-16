@@ -1,0 +1,2 @@
+# isolassocem
+parallel version isolassocem
